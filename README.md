@@ -1,6 +1,6 @@
 # The NFT UI
 
-UI of NFT Selling App. Developed using Flutter
+UI of NFT Selling App. Developed using Flutter 
 
 ## 📱 Screen Shots
 
